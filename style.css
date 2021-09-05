@@ -5,6 +5,8 @@
     position:fixed;
     width: 97.5%;
     height: 60px;
+    top: 0%;
+    z-index: 1;
     margin-left: 20px;
 }
 .menu ul{
