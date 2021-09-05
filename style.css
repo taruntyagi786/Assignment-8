@@ -1,4 +1,8 @@
 *{padding: 0;margin: 0;}
+html {
+    scroll-behavior: smooth;
+    scroll-padding: 90px;
+}
 .menu{
     background:rgb(50, 50, 50);
     text-align: center;
