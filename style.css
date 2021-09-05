@@ -12,7 +12,8 @@
 }
 .menu ul{
     list-style: none;
-    display: inline-flex;
+    display: flex;
+    justify-content: space-evenly;
 }
 .menu ul li{
     width: 150px;
