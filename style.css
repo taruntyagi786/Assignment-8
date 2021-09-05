@@ -79,7 +79,7 @@
 }
 .technology{
     width: 97.5%;
-    height: 450px;
+    height: 500px;
     text-align: center;
     margin-left: 20px;
     display: inline-flex;
@@ -87,7 +87,7 @@
 .card{
     background: rgb(148, 146, 146);
     width: 20%;
-    height: 400px;
+    height: 450px;
     margin: 20px;
     padding: 10px;
     box-sizing: border-box;
